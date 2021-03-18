@@ -1,0 +1,38 @@
+body{
+    font-family:'Montserrat','Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color:rgb(8, 7, 7);
+}
+
+#buy{
+    background-color:#2b2a5c;
+}
+
+.boxed{
+    background-color:white;
+}
+
+.texte{
+    color:white;
+}
+
+
+/*partie avis */
+.avis{
+    font-size:larger;   
+}
+
+.foot{
+    height:200px;
+    width:100%;
+    margin:0px;
+    padding:0px;
+    background-color:rgb(8, 7, 7);
+    opacity:0.6;
+    color:white;
+}
+.foot p{
+    margin:0px;
+}
