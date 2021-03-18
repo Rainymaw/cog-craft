@@ -18,6 +18,13 @@ body{
     color:white;
 }
 
+.boite{
+    transition: transform .2s; /* Animation */
+}
+.boite:hover{
+    transform: scale(1.2);
+}
+
 
 /*partie avis */
 .avis{
